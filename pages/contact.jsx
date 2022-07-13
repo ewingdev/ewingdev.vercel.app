@@ -14,7 +14,7 @@ export default function Home() {
         <p className="text-xl text-white/50 font-normal text-center mb-5">To contact me, you can get information from the section below.</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
-                <a target="_blank" rel="norefferer" href="https://instagram.com/ewingdev">
+                <a target="_blank" rel="norefferer" href="https://instagram.com/ewingbaba">
                     <div className="flex justify-between bg-[#191932]/20 hover:bg-[#191932]/30 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-instagram fa-2x" />
                         <p className="font-semibold text-xl">@ewingbaba</p>
