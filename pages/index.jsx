@@ -67,7 +67,7 @@ export default function Home() {
                 >
                   <img
                     alt="ewing"
-                    src={`https://cdn.discordapp.com/avatars/774591026940739585/983c1eac4c0751687c78c8cb9fd0c385.webp?size=4096`}
+                    src={`https://cdn.discordapp.com/avatars/774591026940739585/aa075b7402db418ed3b79d414164f118.webp?size=4096`}
                     width="160"
                     height="160"
                     className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`}
